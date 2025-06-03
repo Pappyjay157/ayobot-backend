@@ -21,7 +21,7 @@ Ayobot Backend is the server-side application powering the Ayobot platform. It p
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ayobot-backend.git
+git clone https://github.com/Pappyjay157/ayobot-backend.git
 cd ayobot-backend
 npm install
 ```
