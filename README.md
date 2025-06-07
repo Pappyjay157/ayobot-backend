@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Ayobot Backend
 
 Ayobot Backend is the server-side application powering the Ayobot platform. It provides RESTful APIs and core business logic for chatbot interactions, user management, and integrations.
