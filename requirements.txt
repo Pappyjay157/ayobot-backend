@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 openai
 python-dotenv
+=======
+fastapi
+uvicorn
+openai
+python-dotenv
+>>>>>>> feature/fix-ai-agent
